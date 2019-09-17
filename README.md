@@ -1,6 +1,8 @@
-﻿
-# music
 
+# music
+这是一个仿照网易云音乐的vue项目。
+实现功能：搜索功能，每日推荐歌单，mv视频更新（音乐视频能正常播放）；
+使用插件：vant/lryic/better-scroll
 ## Project setup
 ```
 npm install
