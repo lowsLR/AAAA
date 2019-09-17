@@ -1,0 +1,11 @@
+$bg-color: rgb(231, 22, 39);
+$MV-color: rgb(48, 48, 48);
+$black:rgba(10, 10, 10, 0.8);
+
+@function bbcolor($opacity: 1) {
+  @return rgba(230, 230, 250, $opacity);
+}
+
+@function border_bottom($opacity: 1) {
+  @return rgba(176, 176, 176, $opacity);
+}

@@ -1,0 +1,11 @@
+09-02-2019 10:37
+Written in the "src/composts / Find/Swizer" folder
+
+
+09-05-2019 00:42 
+Written in the "src/views / ListOfSongs/SListOfSongswizer" folder
+
+
+09-06-2019 00:22
+
+ "Popup.vue"  There's a problem.
